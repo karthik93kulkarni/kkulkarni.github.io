@@ -1,5 +1,5 @@
 title: Karthik Kulkarni
-logo: /assets/img/headshot_circle.png
+logo: /assets/img/ProfilePic.png
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-hacker
+show_downloads: false
+theme: jekyll-theme-minimal
