@@ -33,3 +33,14 @@ Feel free to reach out to me through the following channels:
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - **GitHub:** [your_github_username](https://github.com/your_github_username)
+
+- **LinkedIn:**
+  - **Profile:** [Your LinkedIn Profile](https://www.linkedin.com/in/karthik-kulkarni/)
+  - **Logo:**
+    ![LinkedIn Logo](/assets/img/Linkedin.jpg)
+- **Gmail:** karthik93kulkarni@gmail.com
+  - **Logo:**
+    ![Gmail Logo](/assets/img/gmail.png)
+- **Phone:** +1-480-438-5191
+  - **Logo:**
+    ![Phone Logo](/assets/img/phone.png)
