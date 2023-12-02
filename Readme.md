@@ -38,7 +38,7 @@ In this paper we introduce a new device **MaRTiny**, a low-cost thermal and visu
 
 </div>
 
-![MaRTiny Device](/assets/img/Martiny.jpg)
+![MaRTiny Device](/assets/img/Martiny_small.png)
 
 
 3. MDPI 2020      –   “ODO: Design of Multimodal Chatbot for an Experiential Media System” [pdf](https://www.mdpi.com/2414-4088/4/4/68)
@@ -48,7 +48,7 @@ In this paper we introduce a new device **MaRTiny**, a low-cost thermal and visu
 In this paper we introduces a multimodal chatbot, named ODO, designed for interactive theater performances. ODO's architecture includes vision and natural language processing capabilities, embodied in a non-anthropomorphic movable LED array on stage. Able to engage with up to five users simultaneously, ODO performs tasks such as face detection, emotion classification, crowd movement tracking via mobile phones, and real-time conversation to guide users through nonlinear stories and interactive games. ODO serves as a tangible embodiment of a distributed multimedia system, overcoming technical challenges to offer users a distinctive experience through innovative interaction in the theater setting.
 </div>
 
-![ODO On Stage](/assets/img/Odo.webp)
+![ODO On Stage](/assets/img/Odo_small.png)
 
 ## Contact
 
