@@ -5,10 +5,10 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 # Contact information
-contact:
-  linkedin:
-    username: https://www.linkedin.com/in/karthik-kulkarni/
-    logo: /assets/img/Linkedin.jpg
+# contact:
+#   linkedin:
+#     username: https://www.linkedin.com/in/karthik-kulkarni/
+#     logo: /assets/img/Linkedin.jpg
   # email: karthik93kulkarni@gmail.com
   #   logo: /assets/img/Gmail.png
   # phone: +480-438-5191

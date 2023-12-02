@@ -22,25 +22,25 @@
 
 ## Publications
 1. WACV 2021      –   “Robust Lensless Image Reconstruction via PSF Estimation” [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Rego_Robust_Lensless_Image_Reconstruction_via_PSF_Estimation_WACV_2021_paper.pdf)
+In this paper we introduce a GAN (Generative Adverserial Network) based approach for lensless imaging which combines image reconstruction and point spread function (PSF) estimation. Through adversarial learning, it enhances reconstruction without explicit PSF knowledge at test time and improves generalization to diverse camera PSFs. This enables versatile use of lensless cameras in multi-camera applications without the need for separate model training for each camera.
+
+![WGAN Model Architechture](/assets/img/Wacv.png)
+
 2. FRONTIER 2022  –   “Martiny: A low cost biometeorological device with embedded computer vision” [pdf](https://www.frontiersin.org/articles/10.3389/fenvs.2022.866240/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Environmental_Science&id=866240)
+
+In this paper we introduce a new device **MaRTiny**, a low-cost thermal and visual sensing AI device, addressing limitations of current expensive and bulky MRT measurement systems. MaRTiny integrates meteorological sensing through various sesnors, detects human presence through computer vision, and applies machine learning algorithms to estimate Mean Radiant Temperature, offering a promising tool for studying human behavior in extreme heat and informing urban design for effective town planning and development.
+
+![MaRTiny Device](/assets/img/Martiny.png)
+
 3. MDPI 2020      –   “ODO: Design of Multimodal Chatbot for an Experiential Media System” [pdf](https://www.mdpi.com/2414-4088/4/4/68)
 
+![ODO On Stage](/assets/img/Odo.webp)
+
+In this paper we introduces a multimodal chatbot, named ODO, designed for interactive theater performances. ODO's architecture includes vision and natural language processing capabilities, embodied in a non-anthropomorphic movable LED array on stage. Able to engage with up to five users simultaneously, ODO performs tasks such as face detection, emotion classification, crowd movement tracking via mobile phones, and real-time conversation to guide users through nonlinear stories and interactive games. ODO serves as a tangible embodiment of a distributed multimedia system, overcoming technical challenges to offer users a distinctive experience through innovative interaction in the theater setting.
 
 ## Contact
 
 Feel free to reach out to me through the following channels:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- **GitHub:** [your_github_username](https://github.com/your_github_username)
-
-- **LinkedIn:**
-  - **Profile:** [Your LinkedIn Profile](https://www.linkedin.com/in/karthik-kulkarni/)
-  - **Logo:**
-    ![LinkedIn Logo](/assets/img/Linkedin.jpg)
-- **Gmail:** karthik93kulkarni@gmail.com
-  - **Logo:**
-    ![Gmail Logo](/assets/img/gmail.png)
-- **Phone:** +1-480-438-5191
-  - **Logo:**
-    ![Phone Logo](/assets/img/phone.png)
+- **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/karthik-kulkarni/)
+- **Email:** [karthik93kulkarni@gmail.com](karthik93kulkarni@gmail.com)
