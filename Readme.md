@@ -35,7 +35,7 @@ In this paper we introduce a GAN (Generative Adverserial Network) based approach
 2. **FRONTIER 2022**  –   “Martiny: A low cost biometeorological device with embedded computer vision” [pdf](https://www.frontiersin.org/articles/10.3389/fenvs.2022.866240/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Environmental_Science&id=866240)
 
 <div style="text-align: justify"> 
-In this paper we introduce a new device **MaRTiny**, a low-cost thermal and visual sensing AI device, addressing limitations of current expensive and bulky MRT measurement systems. MaRTiny integrates meteorological sensing through various sesnors, detects human presence through computer vision, and applies machine learning algorithms to estimate Mean Radiant Temperature, offering a promising tool for studying human behavior in extreme heat and informing urban design for effective town planning and development.
+In this paper we introduce a new device <b>MaRTiny</b>, a low-cost thermal and visual sensing AI device, addressing limitations of current expensive and bulky MRT measurement systems. MaRTiny integrates meteorological sensing through various sesnors, detects human presence through computer vision, and applies machine learning algorithms to estimate Mean Radiant Temperature, offering a promising tool for studying human behavior in extreme heat and informing urban design for effective town planning and development.
 
 </div>
 
