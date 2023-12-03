@@ -26,9 +26,9 @@
 <div style="text-align: justify"> 
 In this paper we introduce a GAN (Generative Adverserial Network) based approach for lensless imaging which combines image reconstruction and point spread function (PSF) estimation. Through adversarial learning, it enhances reconstruction without explicit PSF knowledge at test time and improves generalization to diverse camera PSFs. This enables versatile use of lensless cameras in multi-camera applications without the need for separate model training for each camera.
 
-![WGAN Model Architechture](/assets/img/Wacv.png)
-
 </div>
+
+![WGAN Model Architechture](/assets/img/Wacv.png)
 
 
 
@@ -37,21 +37,19 @@ In this paper we introduce a GAN (Generative Adverserial Network) based approach
 <div style="text-align: justify"> 
 In this paper we introduce a new device **MaRTiny**, a low-cost thermal and visual sensing AI device, addressing limitations of current expensive and bulky MRT measurement systems. MaRTiny integrates meteorological sensing through various sesnors, detects human presence through computer vision, and applies machine learning algorithms to estimate Mean Radiant Temperature, offering a promising tool for studying human behavior in extreme heat and informing urban design for effective town planning and development.
 
-![MaRTiny Device](/assets/img/Martiny_small.png)
-
 </div>
+
+![MaRTiny Device](/assets/img/Martiny_small.png)
 
 
 3. **MDPI 2020**      –   “ODO: Design of Multimodal Chatbot for an Experiential Media System” [pdf](https://www.mdpi.com/2414-4088/4/4/68)
 
-
 <div style="text-align: justify">
 In this paper we introduces a multimodal chatbot, named ODO, designed for interactive theater performances. ODO's architecture includes vision and natural language processing capabilities, embodied in a non-anthropomorphic movable LED array on stage. Able to engage with up to five users simultaneously, ODO performs tasks such as face detection, emotion classification, crowd movement tracking via mobile phones, and real-time conversation to guide users through nonlinear stories and interactive games. ODO serves as a tangible embodiment of a distributed multimedia system, overcoming technical challenges to offer users a distinctive experience through innovative interaction in the theater setting.
 
-![ODO On Stage](/assets/img/Odo_small.png)
-
 </div>
 
+![ODO On Stage](/assets/img/Odo_small.png)
 
 ## Contact
 
